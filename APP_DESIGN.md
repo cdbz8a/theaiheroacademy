@@ -1,5 +1,7 @@
 # AI Hero Academy — App Design Blueprint
 
+> Note: Detailed curriculum content now lives under `course-content/` in this repository.
+
 ## 1) Product Vision
 **AI Hero Academy** is a learning app that helps beginners and professionals build practical AI skills through interactive lessons, projects, and mentorship.
 
