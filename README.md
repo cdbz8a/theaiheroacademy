@@ -41,6 +41,28 @@ Course source files and workshop materials for **AI Hero Academy**.
 - `promo-kit/email-sequence.md`
 - `promo-kit/social-posts.md`
 
+## HTML Site (ready to open)
+- `site/index.html` (homepage)
+- `site/course.html`
+- `site/audience.html`
+- `site/pricing.html`
+- `site/about.html`
+- `site/resources.html`
+- `site/book.html`
+- `site/enroll.html`
+- `site/ai-starter-kit.html`
+- `site/workshop-preview.html`
+- `site/assets/styles.css`
+
+### Local preview
+From repo root:
+
+```bash
+cd site
+python3 -m http.server 8080
+```
+Then open: http://localhost:8080
+
 ## Notes
 - Keep all sensitive participant/company data out of public AI tools.
 - Verify high-stakes outputs (legal, medical, financial, compliance).
