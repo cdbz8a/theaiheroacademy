@@ -53,6 +53,12 @@ Course source files and workshop materials for **AI Hero Academy**.
 - `site/ai-starter-kit.html`
 - `site/workshop-preview.html`
 - `site/assets/styles.css`
+- `site/downloads/*.pdf` (ZIP-imported downloadable files)
+
+## New Course Docs (11-module update)
+- `course-materials/AI_Hero_Academy_11_Module_Course_Outline.md`
+- `course-materials/AI_Hero_Academy_Student_Workbook_11_Module.md`
+- `course-materials/AI_Hero_Academy_Prompt_Library_Student.md`
 
 ### Local preview
 From repo root:
