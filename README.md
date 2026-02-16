@@ -30,6 +30,17 @@ Course source files and workshop materials for **AI Hero Academy**.
 - Total day with breaks/lunch: **~8 to 8.5 hours**
 - Audience: beginner to intermediate, non-technical professionals
 
+## Marketing + Website Drafts
+- `website/IA_and_brand_voice.md`
+- `website/homepage-draft.md`
+- `website/landing-page-sections.md`
+- `website/pricing-offer-block.md`
+- `website/testimonials-placeholders.md`
+- `website/cta-funnel.md`
+- `promo-kit/flyer-copy.md`
+- `promo-kit/email-sequence.md`
+- `promo-kit/social-posts.md`
+
 ## Notes
 - Keep all sensitive participant/company data out of public AI tools.
 - Verify high-stakes outputs (legal, medical, financial, compliance).
