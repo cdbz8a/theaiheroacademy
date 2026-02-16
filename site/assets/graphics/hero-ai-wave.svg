@@ -1,0 +1,20 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EA8FE"/>
+      <stop offset="1" stop-color="#8EF0C5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" rx="24" fill="#0F1631"/>
+  <path d="M0 340C120 300 210 360 320 320C430 280 520 170 650 210C780 250 840 380 980 360C1070 348 1130 300 1200 280V500H0V340Z" fill="url(#g1)" fill-opacity="0.25"/>
+  <path d="M0 290C140 220 270 300 390 260C510 220 580 110 720 140C860 170 940 300 1080 280C1120 275 1160 260 1200 240" stroke="url(#g1)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="230" cy="170" r="46" fill="#6EA8FE" fill-opacity="0.18"/>
+  <circle cx="560" cy="120" r="28" fill="#8EF0C5" fill-opacity="0.18"/>
+  <circle cx="910" cy="170" r="56" fill="#6EA8FE" fill-opacity="0.14"/>
+  <rect x="120" y="90" width="180" height="100" rx="14" fill="#111E45" stroke="#2B3A72"/>
+  <rect x="510" y="70" width="180" height="100" rx="14" fill="#111E45" stroke="#2B3A72"/>
+  <rect x="900" y="100" width="180" height="100" rx="14" fill="#111E45" stroke="#2B3A72"/>
+  <text x="145" y="145" fill="#CFE0FF" font-family="Inter, sans-serif" font-size="20">Learn</text>
+  <text x="548" y="125" fill="#CFE0FF" font-family="Inter, sans-serif" font-size="20">Apply</text>
+  <text x="928" y="155" fill="#CFE0FF" font-family="Inter, sans-serif" font-size="20">Scale</text>
+</svg>
